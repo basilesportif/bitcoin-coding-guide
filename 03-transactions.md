@@ -84,7 +84,7 @@ Hash all the above fields, in order.
   * advantage for Lightning--cheaper cooperative closes
 - problems
   * large locking scripts
-  * have to store script (not going to change)
+  * have to store script (this won't change)
 
 ## resources
 - [BIP143: Segwit Signing](https://github.com/bitcoin/bips/blob/master/bip-0143.mediawiki)
