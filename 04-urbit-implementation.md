@@ -1,5 +1,9 @@
 # Urbit Bitcoin Implementation
 
+## division of labor
+We currently do everything except signing.
+Signing will be implemented soon.
+
 ## bitcoin-utils.hoon
 Exposed through `bitcoin.hoon`
 - Motivation
