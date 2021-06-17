@@ -29,7 +29,11 @@
 
 ## BIP32 and Key Derivation
 * [Tool to Try Examples](https://iancoleman.io/bip39/)
-* how mnemonics work
+* how mnemonics work (show Urbit implementation)
+  - generate entropy
+  - generate checksum
+  - make 11-bit (0-2047) numbers from the resulting bits
+  - translate those numbers into words
 * passphrases
 * xpubs
 
